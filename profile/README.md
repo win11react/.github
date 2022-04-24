@@ -43,3 +43,12 @@
   <img src="https://contrib.rocks/image?repo=win11react/status" />
 </a>
 
+------
+
+<div align="center">
+   <strong>
+   <font size="+2" style="font">
+   Copyright © 2022 Blue edge.
+   </font>
+   </strong>
+</div>
