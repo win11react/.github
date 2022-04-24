@@ -7,10 +7,10 @@
 <h2 align="center">Repositories</h2>
 <p align="center">Repositories related to this open source projects are below. Refer them and visit the related repositories and open any issue or PR.</p>
 
-- [Main repo](https://github.com/blueedgetechno/win11React)
-- [Store repo](https://github.com/win11react/store)
-- [Docs repo](https://github.com/win11react/docs)
-- [Status repo](https://github.com/win11react/status)
+- [Main repo](https://github.com/blueedgetechno/win11React) - Source code for the project.
+- [Store repo](https://github.com/win11react/store) - Contains the app stores, data endpoints for apps.
+- [Docs repo](https://github.com/win11react/docs) - Hosts the documentation site.
+- [Status repo](https://github.com/win11react/status) - Status of our severs and sites.
 
 <h2 align="center">People</h2>
 
