@@ -5,7 +5,7 @@
 <p align="center">This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JS.</p>
 
 <h2 align="center">Repositories</h2>
-<p align="center">Repositories related to this open source projects are below. Refer them and visit the related repositories and open any issue or PR.</p>
+<p align="center">Repositories related to this open source project are below. Refer them and visit the related repositories and open any issue or PR.</p>
 
 - [Main repo](https://github.com/blueedgetechno/win11React) - Source code for the project.
 - [Store repo](https://github.com/win11react/store) - Contains the app stores, data endpoints for apps.
