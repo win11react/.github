@@ -5,21 +5,21 @@
 <p align="center">This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JS.</p>
 
 <h2 align="center">Repositories</h2>
-<p align="center">Repositories related to this open source project are below. Refer them and visit the related repositories and open any issue or PR.</p>
+<p align="center">Repositories related to this open source project are below. Refer them and visit the related repositories and open any issue or pull request.</p>
 
 - [Main repo](https://github.com/blueedgetechno/win11React) - Source code for the project.
 - [Store repo](https://github.com/win11react/store) - Contains the app stores, data endpoints for apps.
 - [Docs repo](https://github.com/win11react/docs) - Hosts the documentation site.
-- [Status repo](https://github.com/win11react/status) - Status of our severs and sites.
+- [Status repo](https://github.com/win11react/status) - Status of our servers and sites.
 
 <h2 align="center">People</h2>
 
-- [Blue edge](https://github.com/blueedgetechno/) - Creator of win11react.
-- [Andrewstech](https://github.com/andrewstech/) - Creator of the Deploy Preview system. Maintains the app store.
+- [Blue Edge](https://github.com/blueedgetechno) - Creator of Win11React.
+- [AndrewsTech](https://github.com/andrewstech) - Creator of the Deploy Preview system. Maintains the App Store.
 
 <h2 align="center">Contributors</h2>
 
-### Main project
+### Main Project
 
 <a href="https://github.com/blueedgetechno/win11React/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=blueedgetechno/win11React" />
@@ -48,7 +48,7 @@
 <div align="center">
    <strong>
    <font size="+2" style="font">
-   Copyright © 2022 Blue edge.
+   Copyright © 2022 Blue Edge.
    </font>
    </strong>
 </div>
