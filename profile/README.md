@@ -1,54 +1,49 @@
-<h1 align="center">The Win11React Project</h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91379432/164983291-5619d3ae-31da-4bc4-920a-823daf854fe8.png" height="80" width="80">
 </p>
-<p align="center">This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JS.</p>
+<h1 align="center">Win11React</h1>
+<p>This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JavaScript.</p>
 
 <h2 align="center">Repositories</h2>
-<p align="center">Repositories related to this open source project are below. Refer them and visit the related repositories and open any issue or pull request.</p>
+<p>Repositories related to the project are linked below. Refer to them and visit the related repositories and open any issue or pull requests if needed.</p>
 
-- [Main repo](https://github.com/blueedgetechno/win11React) - Source code for the project.
-- [Store repo](https://github.com/win11react/store) - Contains the app stores, data endpoints for apps.
-- [Docs repo](https://github.com/win11react/docs) - Hosts the documentation site.
-- [Status repo](https://github.com/win11react/status) - Status of our servers and sites.
+- [Main Project](https://github.com/blueedgetechno/win11React) - Source code for the project.
+- [App Store](https://github.com/win11react/store) - Contains the app stores, data endpoints for apps.
+- [Docs](https://github.com/win11react/docs) - Hosts the documentation site.
+- [Status](https://github.com/win11react/status) - Status of our servers and sites.
 
 <h2 align="center">People</h2>
 
-- [Blue Edge](https://github.com/blueedgetechno) - Creator of Win11React.
-- [AndrewsTech](https://github.com/andrewstech) - Creator of the Deploy Preview system. Maintains the App Store.
+* [Blue Edge](https://github.com/blueedgetechno) - Creator of Win11React
+* [AndrewsTech](https://github.com/andrewstech) - Creator of the Deploy Preview system. Maintains the App Store.
 
 <h2 align="center">Contributors</h2>
 
 ### Main Project
-
 <a href="https://github.com/blueedgetechno/win11React/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=blueedgetechno/win11React" />
+  <img src="https://contrib.rocks/image?repo=blueedgetechno/win11React"/>
 </a>
 
 ### App Store
-
 <a href="https://github.com/win11react/store/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=win11react/store" />
+  <img src="https://contrib.rocks/image?repo=win11react/store"/>
 </a>
 
 ### Docs
-
 <a href="https://github.com/win11react/docs/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=win11react/docs" />
+  <img src="https://contrib.rocks/image?repo=win11react/docs"/>
 </a>
 
 ### Status
-
 <a href="https://github.com/win11react/status/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=win11react/status" />
+  <img src="https://contrib.rocks/image?repo=win11react/status"/>
 </a>
 
 ------
-
-<div align="center">
+<div>
    <strong>
    <font size="+2" style="font">
-   Copyright © 2022 Blue Edge.
+    &copy; Win11React
    </font>
    </strong>
 </div>
