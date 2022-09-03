@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logo.png" height="80" width="80">
+<img src="https://github.com/win11react/.github/blob/main/profile/logo.png" height="80" width="80">
 </p>
 <h1 align="center">Win11React</h1>
 <p>This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JavaScript.</p>
